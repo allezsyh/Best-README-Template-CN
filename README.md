@@ -1,33 +1,16 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- 改进了返回顶部链接的兼容性：参见：https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** 感谢查看 Best-README-Template。如果你有任何建议
+*** 可以让它更好，请 Fork 该仓库并创建一个 pull request
+*** 或者简单地打开一个带有“enhancement”标签的问题。
+*** 别忘了给这个项目一个星标！
+*** 再次感谢！现在去创造一些惊人的东西吧！:D
 -->
 
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
+<!-- 项目徽标 -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -37,72 +20,72 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    一个超棒的 README 模板，帮助你快速启动项目！
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>查看文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">查看演示</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">报告 Bug</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">请求新功能</a>
   </p>
 </div>
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- 目录 -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>目录</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#关于项目">关于项目</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#构建工具">构建工具</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#快速开始">快速开始</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#先决条件">先决条件</a></li>
+        <li><a href="#安装">安装</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#使用示例">使用示例</a></li>
+    <li><a href="#路线图">路线图</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#致谢">致谢</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- 关于项目 -->
+## 关于项目
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![产品名称截图][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+在 GitHub 上有许多很棒的 README 模板；然而，我没有找到一个完全符合我需求的，于是我创建了这个增强版的模板。我希望能创建一个如此出色的 README 模板，以至于它将成为你最后一次需要的模板——我认为这就是它。
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+这里是原因：
+* 你的时间应该专注于创造出色的项目。一个能解决问题并帮助他人的项目
+* 你不应该一遍又一遍地做相同的事情，比如从头开始写 README
+* 你应该把 DRY 原则（不要重复自己）应用到生活的方方面面 :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+当然，没有一个模板能适用于所有项目，因为你的需求可能不同。所以我会在未来添加更多模板。你也可以通过 Fork 该仓库并创建 pull request 或者打开一个问题来提出修改建议。感谢所有为扩展这个模板做出贡献的人！
 
-Use the `BLANK_README.md` to get started.
+使用 `BLANK_README.md` 来开始。
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-### Built With
+### 构建工具
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+此部分应该列出启动项目时使用的主要框架/库。将任何附加插件/依赖项列入致谢部分。以下是一些示例。
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -113,138 +96,137 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- 快速开始 -->
+## 快速开始
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+这是一个关于如何在本地设置项目的示例。
+要在本地运行该项目，请按照以下简单步骤操作。
 
-### Prerequisites
+### 先决条件
 
-This is an example of how to list things you need to use the software and how to install them.
+这是列出你需要使用该软件的工具以及如何安装它们的示例。
 * npm
   ```sh
   npm install npm@latest -g
-  ```
 
-### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+### 安装
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+_以下是如何指导您的受众安装和设置应用程序的示例。本模板不依赖任何外部依赖或服务。_
+
+1. 获取免费的API密钥：[https://example.com](https://example.com)
+2. 克隆仓库
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+3. 安装NPM包
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. 在 `config.js` 中输入您的API密钥
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-5. Change git remote url to avoid accidental pushes to base project
+5. 更改git远程URL，以避免不小心推送到基础项目
    ```sh
    git remote set-url origin github_username/repo_name
    git remote -v # confirm the changes
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- 使用示例 -->
+## 使用示例
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+使用此区域展示项目的有用示例。附加截图、代码示例和演示效果非常适合放在这里。你也可以链接到更多资源。
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+_更多示例，请参考 [文档](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- 路线图 -->
+## 路线图
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+- [x] 添加更新日志
+- [x] 添加返回顶部链接
+- [ ] 添加更多示例模板
+- [ ] 添加“组件”文档，方便复制和粘贴README的部分
+- [ ] 多语言支持
+    - [ ] 中文
+    - [ ] 西班牙语
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+查看 [开放问题](https://github.com/othneildrew/Best-README-Template/issues) 获取完整的提议功能（和已知问题）。
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-### Top contributors:
+
+
+<!-- 贡献 -->
+## 贡献
+
+贡献是开源社区如此美妙的地方，可以在这里学习、激励和创造。您所做的任何贡献都将**极大地被赞赏**。
+
+如果您有任何可以让这个模板更好的建议，请fork该仓库并创建pull请求。您也可以简单地提出一个带有“enhancement”标签的问题。
+别忘了给项目加个星！再次感谢！
+
+1. Fork项目
+2. 创建您的功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m '添加一些AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 创建Pull请求
+
+### 顶级贡献者：
 
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-<!-- LICENSE -->
-## License
+<!-- 许可证 -->
+## 许可证
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+本项目使用Unlicense许可证分发。详细信息请参阅 `LICENSE.txt`。
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- 联系方式 -->
+## 联系
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+您的名字 - [@您的Twitter](https://twitter.com/your_username) - email@example.com
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+项目链接: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+
+
+<!-- 致谢 -->
+## 致谢
+
+在此列出您觉得有用并想要致谢的资源。我已经列出了一些我的最爱，供您参考！
+
+* [选择一个开源许可证](https://choosealicense.com)
+* [GitHub 表情符号备忘单](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven 的 Flexbox 备忘单](https://flexbox.malven.co/)
+* [Malven 的 Grid 备忘单](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React 图标](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
 
@@ -276,6 +258,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
